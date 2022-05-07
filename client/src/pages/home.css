@@ -1,0 +1,29 @@
+code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+      monospace;
+  }
+  
+  .carousel .carousel-item {
+    height: 350px;
+  }
+  
+  .carousel-item img {
+      position: absolute;
+      
+      top: 0;
+      left: 0;
+      min-height: 350px;
+      max-height: 350px;
+  }
+  .btitle
+  {
+    font-weight: bold;
+    
+  }
+  .bbutton
+  {
+    margin: auto;
+    cursor: pointer;
+  }  
+
+  

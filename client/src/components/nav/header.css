@@ -1,0 +1,36 @@
+.link {
+    color: #FFF;
+}
+.link:hover {
+     color: #FFF
+}
+.ant-menu.ant-menu-dark.customClass {
+    background-color:#222b3d;
+}
+.ant-menu.ant-menu-dark .ant-menu-item-selected.customclass {
+    background-color:#222b3d; /*Overriden property*/
+  }
+
+  .ant-menu-dark.ant-menu-horizontal > .ant-menu-item:hover.customclass {
+    background-color: #F49F00; 
+  }
+
+ 
+  .ant-menu.ant-menu-dark .ant-menu-item-selected.cus {
+    background-color:#222b3d; /*Overriden property*/
+  }
+  .ant-menu-dark.ant-menu-horizontal > .ant-menu-item:hover.cus {
+    background-color: #222b3d; 
+  }
+
+  
+  .cuss {
+    background-color:#222b3d; /*Overriden property*/
+    color:#222b3d;
+  }
+  .cuss:hover {
+    background-color: #222b3d; 
+  }
+
+  
+  

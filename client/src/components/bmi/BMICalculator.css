@@ -1,0 +1,89 @@
+
+  .wrapper {
+    padding: 20px 30px;
+  }
+  .labell {
+    padding: 12px 12px 12px 0;
+    display: inline-block;
+    width: 80px;
+    margin-bottom: 20px;
+    font-weight: bold;
+  }
+  .inputt {
+    width: 50%;
+    padding: 12px;
+    border: 1px solid rgb(219, 219, 219);
+    border-radius: 4px;
+    resize: vertical;
+    outline: none;
+    font-family: "McLaren", cursive;
+  }
+  
+  .buttonn {
+    margin-left: 100px;
+    padding: 10px;
+    width: 200px;
+    font-size: 1.1rem;
+    border: none;
+    color: white;
+    background: #63c7b6;
+    cursor: pointer;
+    outline: none;
+    font-family: "McLaren", cursive;
+  }
+  
+  .buttonn:hover {
+    background: #198f7f;
+    transition: all 200ms ease-in-out;
+    outline: none;
+  }
+  .popup {
+    margin-top: 15px;
+    width: 100%;
+    padding: 15px;
+    height: 100%;
+    background: white;
+    border-radius: 15px;
+  }
+  .popup h1 {
+    margin: 0;
+    font-size: 1.3rem;
+    color: #41b3a3;
+    margin-bottom: 15px;
+  }
+  
+  .weight-boxes {
+    margin-top: 3px;
+    background-color: #cbe7e3;
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 2px;
+    padding: 10px 20px;
+  }
+  
+  #highlight {
+    font-weight: bold;
+    background-color: #41b3a3;
+  }
+  
+  @media (max-width: 657px) {
+    .labell {
+      display: flex;
+      margin: 0 auto;
+      text-align: center;
+    }
+   
+    .popup {
+      display: block;
+      margin: 0 auto;
+      width: 60%;
+    }
+    .weight-boxes {
+      width: 100%;
+    }
+    .buttonn {
+      margin: 20px auto;
+    }
+  }
+  

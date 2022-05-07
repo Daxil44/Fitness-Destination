@@ -1,0 +1,33 @@
+.cimg
+{
+  max-height: 236px;
+  max-width: 285px;
+  align-items: center;
+}
+.ctext
+{
+  font-size: small;
+  min-width: 265px;
+}
+.ctitle
+{
+  
+  min-width: 265px;
+}
+.price
+{
+  font-weight: bold;
+}
+.cbutton {
+  border: none;
+  align-items: center;
+  padding: 13px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin:4px 32px;
+  cursor: pointer;
+  
+}
+
