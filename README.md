@@ -46,8 +46,7 @@ You can check out the live demo of the website [here](https://fitnessdestination
 - Developed an admin dashboard and order management system with Products CRUD functionality.
 - Prepared different React components in an MVC micro architecture framework utilizing various design patterns.
 - Handled recurring payments and one-time charges using the Stripe Payment Gateway service.
-
-## Screenshots
+  
 ## Screenshots
 
 ![Screenshot 1](ScreenShots/1.png)
