@@ -59,7 +59,6 @@ You can check out the live demo of the website [here](https://fitnessdestination
 
 ![Screenshot 5](ScreenShots/5.png)
 
-![Screenshot 6](ScreenShots/6.png)
 
 ![Screenshot 7](ScreenShots/7.png)
 
